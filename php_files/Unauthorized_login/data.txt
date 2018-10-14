@@ -1,0 +1,1 @@
+This file contains the bytes of each screenshot. just Copy paste the bytes to a empty.txt file and rename to empty.png
