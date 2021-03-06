@@ -5,7 +5,7 @@ Loader is coded in C# it was based of Unityloader.
 
 The loader:
 
-I used this loader for a very long time *YEARS*. The code isn't clean and is quite ugly. It's using MYBB and mysql tables to login and retrieve the detections/game list.
+I used this loader for a very long time It's fud but The code is quite a mass. It's using MYBB and mysql tables to login and retrieve the detections/game list.
 
 ![alt text](https://i.gyazo.com/49540107ab925e4928e700bbfca22b12.png)
 
